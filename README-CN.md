@@ -96,6 +96,8 @@ McImageConfig {
 }
 ```
 
+图片大小检查:一种是图特别大，一种是图宽高特别大，提示"You have big Img!!!! "，来避免OOM和包增大。
+
 ### Thanks
 
 [pngquant](https://github.com/pornel/pngquant)
